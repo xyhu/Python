@@ -19,12 +19,6 @@ input: a dictionar-like object returned by cgi.FieldStorage(), keys in the desir
 output: values
 """
 def desiredOrder(form, lexal):
-    """
-    >>> form = {'VERB':'v','NOUN':'n','ADJECTIVE':'a'}
-    >>> lexal = ('VERB','NOUN','ADJECTIVE')
-    >>> desiredOrder(form, lexal)
-    ['v','n','a']
-    """
     values = []
     values.append(form.getvalue(lexal[0]))
     values.append(form.getvalue(lexal[1]))
