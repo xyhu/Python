@@ -11,14 +11,14 @@ http://www-inst.eecs.berkeley.edu/~selfpace/cs9honline/P1/
 * Project 2
   * 2a: Python-powered Unit Converter. The description of the project requirement can be found here:
 http://www-inst.eecs.berkeley.edu/~selfpace/cs9honline/P2a/
-    - Topics: tuples, lists, dictionaries
-    - Project2_Unit_Conversion.py: does unit conversion
+      - Topics: tuples, lists, dictionaries
+      - Project2_Unit_Conversion.py: does unit conversion
 
   * 2b: Basic web programming. The description of the project requirement can be found here:
 http://www-inst.eecs.berkeley.edu/~selfpace/cs9honline/P2b/
-    - Topics: basic web fetching
-    - Project2_Web_programming.py: codes
-    - Description: The program extract NBA champion data from: http://www.landofbasketball.com/championships/year_by_year.htm and runs as follows:<br>
+      - Topics: basic web fetching
+      - Project2_Web_programming.py: codes
+      - Description: The program extract NBA champion data from: http://www.landofbasketball.com/championships/year_by_year.htm and runs as follows:<br>
 
     Want to find out the NBA champions for a particular year? Simply tell me the year (e.g. 2013-14), and I will tell you everything as follows:<br>
     
