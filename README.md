@@ -5,14 +5,14 @@ This repository contains codes from my Python class.
 * Project 1: Cellular Automation. The description of the project requirement can be found here:
 http://www-inst.eecs.berkeley.edu/~selfpace/cs9honline/P1/
   - Topics: interpreter, expressions, strings, functions and the various flow-of-control constructs
-  - project1.py: codes
+  - project1.py: producing bitmap based on the rule input by users
   - rule~.pbm: bitmap produced by corresponding rule using project1.py
 
 * Project 2
   * 2a: Python-powered Unit Converter. The description of the project requirement can be found here:
 http://www-inst.eecs.berkeley.edu/~selfpace/cs9honline/P2a/
     - Topics: tuples, lists, dictionaries
-    - Project2_Unit_Conversion.py: codes
+    - Project2_Unit_Conversion.py: does unit conversion
 
   * 2b: Basic web programming. The description of the project requirement can be found here:
 http://www-inst.eecs.berkeley.edu/~selfpace/cs9honline/P2b/
