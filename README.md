@@ -1,6 +1,6 @@
 Python
 ======
-This repository contains codes from my Python class.
+This repository contains codes from my self-paced Python class.
 
 * Project 1: Cellular Automation. The description of the project requirement can be found here:
 http://www-inst.eecs.berkeley.edu/~selfpace/cs9honline/P1/
